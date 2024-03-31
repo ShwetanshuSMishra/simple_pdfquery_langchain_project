@@ -1,0 +1,1 @@
+This is simple LangChain project, which will read a pdf and answer the questions, given by the user, related to that pdf.
